@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ProfileViewController.h
 //  Note
 //
 //  Created by Adam Fallon on 02/01/2015.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ProfileViewController : UIViewController
 
 @end
-
